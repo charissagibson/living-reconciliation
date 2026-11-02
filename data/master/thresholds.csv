@@ -1,0 +1,4 @@
+threshold_id,company_code,account_id,max_audit_risk_for_auto,balance_threshold,max_open_item_age_days,effective_from,last_reviewed_at,last_reviewed_by
+THR-001,AU01,1300,low,50000.00,400,2025-06-01,2026-03-31,robinf
+THR-002,DE01,,low,30000.00,400,2025-06-01,2026-03-31,robinf
+THR-003,JP01,,low,8000000,400,2025-06-01,2026-03-31,robinf

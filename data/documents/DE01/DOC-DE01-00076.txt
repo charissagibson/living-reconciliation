@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-DE01-00076
+Company: DE01
+Vendor: V-DE-LND
+Date: 2026-01-01
+Rent in advance PP-DE01-010
+Amount: 9405.95 EUR
+Service period: 2026-01-01 to 2026-03-31

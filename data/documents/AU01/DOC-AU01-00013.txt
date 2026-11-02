@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-AU01-00013
+Company: AU01
+Vendor: V-AU-MNT
+Date: 2025-10-02
+Maintenance contract PP-AU01-013
+Amount: 35554.78 AUD
+Service period: 2025-10-01 to 2027-09-30

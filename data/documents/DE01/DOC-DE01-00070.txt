@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-DE01-00070
+Company: DE01
+Vendor: V-DE-SWA
+Date: 2026-09-05
+Software subscription PP-DE01-004
+Amount: 11882.25 EUR
+Service period: 2026-09-01 to 2027-08-31

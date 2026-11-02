@@ -1,0 +1,10 @@
+customer_id,customer_name,country,default_currency,payment_terms_days,payment_method,credit_limit,is_intercompany,active,last_reviewed_at,last_reviewed_by
+C-AU-1,Customer AU 1,AU,AUD,30,bank transfer,100000.00,False,True,2026-03-31,robinf
+C-AU-2,Customer AU 2,AU,AUD,14,direct debit we collect,50000.00,False,True,2026-03-31,robinf
+C-AU-3,Customer AU 3,AU,AUD,0,card,10000.00,False,True,2026-03-31,robinf
+C-DE-1,Customer DE 1,DE,EUR,30,bank transfer,60000.00,False,True,2026-03-31,robinf
+C-DE-2,Customer DE 2,DE,EUR,14,direct debit we collect,30000.00,False,True,2026-03-31,robinf
+C-DE-3,Customer DE 3,DE,EUR,0,card,6000.00,False,True,2026-03-31,robinf
+C-JP-1,Customer JP 1,JP,JPY,30,bank transfer,10000000,False,True,2026-03-31,robinf
+C-JP-2,Customer JP 2,JP,JPY,14,direct debit we collect,5000000,False,True,2026-03-31,robinf
+C-JP-3,Customer JP 3,JP,JPY,0,card,1000000,False,True,2026-03-31,robinf

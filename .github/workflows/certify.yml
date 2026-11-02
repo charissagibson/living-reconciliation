@@ -1,0 +1,43 @@
+name: Certify
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  certify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: The committed data is exactly what the generator makes
+        run: |
+          python scripts/generate_data.py
+          git diff --exit-code -- data
+          test -z "$(git status --porcelain -- data)"
+
+      - name: Run the demo timeline
+        run: python scripts/run_demo.py
+
+      - name: Verify integrity checks and planted cases
+        run: python scripts/verify.py
+
+      - name: Keep the evidence and the snapshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: evidence
+          path: |
+            build/evidence
+            build/snapshots

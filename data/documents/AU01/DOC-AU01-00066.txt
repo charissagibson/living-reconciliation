@@ -1,0 +1,6 @@
+SYNTHETIC STATEMENT - demo data only
+Document: DOC-AU01-00066
+Company: AU01
+Vendor: V-AU-MNT
+Date: 2026-09-30
+Vendor statement at 30 September 2026: contract paid in full in advance

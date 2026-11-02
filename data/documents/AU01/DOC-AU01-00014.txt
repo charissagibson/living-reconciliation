@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-AU01-00014
+Company: AU01
+Vendor: V-AU-SWB
+Date: 2026-09-01
+Software subscription PP-AU01-014
+Amount: 7200.00 AUD
+Service period: 2026-09-01 to 2027-08-31

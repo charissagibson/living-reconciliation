@@ -1,0 +1,6 @@
+currency_code,currency_name,minor_units,minor_units_source,active,last_reviewed_at,last_reviewed_by
+AUD,Australian dollar,2,ISO 4217,True,2026-03-31,robinf
+EUR,Euro,2,ISO 4217,True,2026-03-31,robinf
+JPY,Japanese yen,0,ISO 4217,True,2026-03-31,robinf
+USD,US dollar,2,ISO 4217,True,2026-03-31,robinf
+KWD,Kuwaiti dinar,3,ISO 4217,False,2026-03-31,robinf

@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-DE01-00072
+Company: DE01
+Vendor: V-DE-SWC
+Date: 2025-06-05
+Software subscription PP-DE01-006
+Amount: 3619.02 EUR
+Service period: 2025-06-01 to 2026-05-31

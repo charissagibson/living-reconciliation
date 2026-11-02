@@ -1,0 +1,14 @@
+company_code,cost_centre_id,name,owner_person_id,active
+AU01,ADM,Administration,samt,True
+AU01,IT,Information technology,samt,True
+AU01,OPS,Operations,samt,True
+AU01,SAL,Sales,samt,True
+DE01,ADM,Administration,nicoh,True
+DE01,IT,Information technology,nicoh,True
+DE01,OPS,Operations,nicoh,True
+DE01,SAL,Sales,nicoh,True
+JP01,ADM,Administration,renk,True
+JP01,IT,Information technology,renk,True
+JP01,OPS,Operations,renk,True
+JP01,SAL,Sales,renk,True
+AU01,INNO,Innovation lab,samt,True

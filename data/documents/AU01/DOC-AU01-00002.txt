@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-AU01-00002
+Company: AU01
+Vendor: V-AU-INS
+Date: 2026-07-01
+Insurance premium PP-AU01-002
+Amount: 26915.22 AUD
+Service period: 2026-07-01 to 2027-06-30

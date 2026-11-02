@@ -1,0 +1,7 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-JP01-00172
+Company: JP01
+Vendor: V-JP-OFF
+Date: 2026-04-07
+Office supplies
+Amount: 271837 JPY

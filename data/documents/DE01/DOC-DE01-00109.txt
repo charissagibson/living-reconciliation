@@ -1,0 +1,7 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-DE01-00109
+Company: DE01
+Vendor: V-DE-OFF
+Date: 2026-03-22
+Office supplies
+Amount: 551.39 EUR

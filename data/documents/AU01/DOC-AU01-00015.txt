@@ -1,0 +1,8 @@
+SYNTHETIC CONTRACT - demo data only
+Document: DOC-AU01-00015
+Company: AU01
+Vendor: V-AU-SWB
+Date: 2026-08-20
+Subscription order form for the innovation lab
+Amount: 7200.00 AUD
+Service period: 2026-09-01 to 2027-08-31

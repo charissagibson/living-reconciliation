@@ -1,0 +1,7 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-AU01-00036
+Company: AU01
+Vendor: V-AU-OFF
+Date: 2025-12-03
+Office supplies
+Amount: 1774.94 AUD

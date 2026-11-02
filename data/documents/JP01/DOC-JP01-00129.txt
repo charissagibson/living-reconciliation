@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-JP01-00129
+Company: JP01
+Vendor: V-JP-INS
+Date: 2025-07-03
+Insurance premium PP-JP01-001
+Amount: 2373865 JPY
+Service period: 2025-07-01 to 2026-06-30

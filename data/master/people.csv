@@ -1,0 +1,17 @@
+person_id,display_name,department,level,is_ai_identity,linked_person_id,active
+robinf,Robin Fischer,Group Accounting,Head of General Ledger,False,,True
+jordanl,Jordan Lee,Accounting AU,Senior Accountant,False,,True
+alexm,Alex Morgan,Accounts Payable AU,Accountant,False,,True
+samt,Sam Taylor,Finance AU,Financial Controller,False,,True
+kimw,Kim Weber,Accounting DE,Senior Accountant,False,,True
+chrisb,Chris Bauer,Accounts Payable DE,Accountant,False,,True
+nicoh,Nico Hartmann,Finance DE,Financial Controller,False,,True
+taylorb,Taylor Brooks,Sales DE,Sales Controller,False,,True
+yukit,Yuki Tanaka,Accounting JP,Senior Accountant,False,,True
+hanas,Hana Sato,Accounts Payable JP,Accountant,False,,True
+renk,Ren Kato,Finance JP,Financial Controller,False,,True
+alexm_ai,Alex Morgan (AI),Accounts Payable AU,AI identity,True,alexm,True
+kimw_ai,Kim Weber (AI),Accounting DE,AI identity,True,kimw,True
+yukit_ai,Yuki Tanaka (AI),Accounting JP,AI identity,True,yukit,True
+rule_engine,Sign-off rule engine,System,System identity,False,,True
+snapshot_script,Snapshot script,System,System identity,False,,True

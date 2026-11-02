@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-DE01-00067
+Company: DE01
+Vendor: V-DE-INS
+Date: 2025-07-03
+Insurance premium PP-DE01-001
+Amount: 13891.28 EUR
+Service period: 2025-07-01 to 2026-06-30

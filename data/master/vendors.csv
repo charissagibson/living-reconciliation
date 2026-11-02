@@ -1,0 +1,25 @@
+vendor_id,vendor_name,country,default_currency,payment_terms_days,payment_method,is_intercompany,active,last_reviewed_at,last_reviewed_by
+V-AU-INS,Insurance Vendor AU,AU,AUD,30,bank transfer,False,True,2026-03-31,robinf
+V-AU-SWA,Software Vendor A AU,AU,AUD,14,card,False,True,2026-03-31,robinf
+V-AU-SWB,Software Vendor B AU,AU,AUD,30,bank transfer,False,True,2026-03-31,robinf
+V-AU-SWC,Software Vendor C AU,AU,AUD,30,card,False,True,2026-03-31,robinf
+V-AU-LND,Landlord AU,AU,AUD,7,direct debit,False,True,2026-03-31,robinf
+V-AU-MNT,Maintenance Vendor AU,AU,AUD,30,bank transfer,False,True,2026-03-31,robinf
+V-AU-OFF,Office Supplies Vendor AU,AU,AUD,30,bank transfer,False,True,2026-03-31,robinf
+V-AU-UTL,Utilities Vendor AU,AU,AUD,14,direct debit,False,True,2026-03-31,robinf
+V-DE-INS,Insurance Vendor DE,DE,EUR,30,bank transfer,False,True,2026-03-31,robinf
+V-DE-SWA,Software Vendor A DE,DE,EUR,14,card,False,True,2026-03-31,robinf
+V-DE-SWB,Software Vendor B DE,DE,EUR,30,bank transfer,False,True,2026-03-31,robinf
+V-DE-SWC,Software Vendor C DE,DE,EUR,30,card,False,True,2026-03-31,robinf
+V-DE-LND,Landlord DE,DE,EUR,7,direct debit,False,True,2026-03-31,robinf
+V-DE-MNT,Maintenance Vendor DE,DE,EUR,30,bank transfer,False,True,2026-03-31,robinf
+V-DE-OFF,Office Supplies Vendor DE,DE,EUR,30,bank transfer,False,True,2026-03-31,robinf
+V-DE-UTL,Utilities Vendor DE,DE,EUR,14,direct debit,False,True,2026-03-31,robinf
+V-JP-INS,Insurance Vendor JP,JP,JPY,30,bank transfer,False,True,2026-03-31,robinf
+V-JP-SWA,Software Vendor A JP,JP,JPY,14,card,False,True,2026-03-31,robinf
+V-JP-SWB,Software Vendor B JP,JP,JPY,30,bank transfer,False,True,2026-03-31,robinf
+V-JP-SWC,Software Vendor C JP,JP,JPY,30,card,False,True,2026-03-31,robinf
+V-JP-LND,Landlord JP,JP,JPY,7,direct debit,False,True,2026-03-31,robinf
+V-JP-MNT,Maintenance Vendor JP,JP,JPY,30,bank transfer,False,True,2026-03-31,robinf
+V-JP-OFF,Office Supplies Vendor JP,JP,JPY,30,bank transfer,False,True,2026-03-31,robinf
+V-JP-UTL,Utilities Vendor JP,JP,JPY,14,direct debit,False,True,2026-03-31,robinf

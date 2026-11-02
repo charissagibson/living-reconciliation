@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-DE01-00080
+Company: DE01
+Vendor: V-DE-INS
+Date: 2026-08-01
+Insurance premium PP-DE01-014
+Amount: 6000.00 EUR
+Service period: 2026-08-01 to 2027-07-31

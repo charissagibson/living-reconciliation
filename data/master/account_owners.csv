@@ -1,0 +1,11 @@
+assignment_id,role,person_id,company_code,account_id,effective_from,effective_to,last_reviewed_at,last_reviewed_by
+OWN-001,owner,jordanl,AU01,,2025-06-01,,2026-03-31,robinf
+OWN-002,reviewer,samt,AU01,,2025-06-01,,2026-03-31,robinf
+OWN-003,approver,robinf,AU01,,2025-06-01,,2026-03-31,robinf
+OWN-004,owner,kimw,DE01,,2025-06-01,,2026-03-31,robinf
+OWN-005,reviewer,nicoh,DE01,,2025-06-01,,2026-03-31,robinf
+OWN-006,approver,robinf,DE01,,2025-06-01,,2026-03-31,robinf
+OWN-007,owner,yukit,JP01,,2025-06-01,,2026-03-31,robinf
+OWN-008,reviewer,renk,JP01,,2025-06-01,,2026-03-31,robinf
+OWN-009,approver,robinf,JP01,,2025-06-01,,2026-03-31,robinf
+OWN-010,owner,alexm,AU01,1300,2025-06-01,,2026-03-31,robinf

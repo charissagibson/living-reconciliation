@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-DE01-00079
+Company: DE01
+Vendor: V-DE-MNT
+Date: 2025-10-04
+Maintenance contract PP-DE01-013
+Amount: 21565.86 EUR
+Service period: 2025-10-01 to 2027-09-30

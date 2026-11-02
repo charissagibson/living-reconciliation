@@ -1,0 +1,5 @@
+company_code,parameter_key,parameter_value,unit,description,last_reviewed_at,last_reviewed_by
+,fingerprint_lookback_months,12,months,Months of posting history the fingerprint is built from,2026-03-31,robinf
+,fingerprint_sample_month_offset,13,months,"The sample month from the year before, counted back from the first month checked",2026-03-31,robinf
+,fingerprint_min_share,0.02,share of lines,"Below this share of lines, a value doesn't count as normal for the account",2026-03-31,robinf
+,current_noncurrent_split_months,12,months,Amounts amortising within this many months of period end are current,2026-03-31,robinf

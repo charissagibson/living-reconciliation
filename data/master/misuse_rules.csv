@@ -1,0 +1,5 @@
+rule_id,account_id,company_code,rule_type,rule_setting,active,last_reviewed_at,last_reviewed_by
+MR-1300-01,1300,,no_source_document,"posting types: vendor invoice, GL journal; minimum document-link rate 1.00",True,2026-03-31,robinf
+MR-1300-02,1300,,unexpected_posting_type,posting type not in the fingerprint,True,2026-03-31,robinf
+MR-1300-03,1300,,new_cost_centre,cost centre not in the fingerprint,True,2026-03-31,robinf
+MR-1300-04,1300,,unexpected_user,user not in the fingerprint,True,2026-03-31,robinf

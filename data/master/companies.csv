@@ -1,0 +1,4 @@
+company_code,company_name,country,local_currency,fy_start_month,cutoff_timezone,sub_ledgers,active,last_reviewed_at,last_reviewed_by
+AU01,Demo Australia Pty Ltd,AU,AUD,7,Australia/Sydney,AP;AR;FA,True,2026-03-31,robinf
+DE01,Demo Deutschland GmbH,DE,EUR,1,Europe/Berlin,AP;AR;FA,True,2026-03-31,robinf
+JP01,Demo Japan KK,JP,JPY,4,Asia/Tokyo,AP;AR;FA,True,2026-03-31,robinf

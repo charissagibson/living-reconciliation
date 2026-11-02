@@ -1,0 +1,8 @@
+SYNTHETIC INVOICE - demo data only
+Document: DOC-AU01-00011
+Company: AU01
+Vendor: V-AU-LND
+Date: 2026-04-02
+Rent in advance PP-AU01-011
+Amount: 14920.64 AUD
+Service period: 2026-04-01 to 2026-06-30

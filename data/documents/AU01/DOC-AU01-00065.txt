@@ -1,0 +1,8 @@
+SYNTHETIC CONTRACT - demo data only
+Document: DOC-AU01-00065
+Company: AU01
+Vendor: V-AU-MNT
+Date: 2025-09-15
+Maintenance agreement, 24 months, billed in advance
+Amount: 35554.78 AUD
+Service period: 2025-10-01 to 2027-09-30
